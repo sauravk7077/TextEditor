@@ -1,0 +1,22 @@
+{
+  "name": "texteditor",
+  "version": "0.0.1",
+  "description": "A simple text editor like notepad",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sauravk7077/TextEditor.git"
+  },
+  "author": "Saurav Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sauravk7077/TextEditor/issues"
+  },
+  "homepage": "https://github.com/sauravk7077/TextEditor#readme",
+  "dependencies": {
+    "@editorjs/editorjs": "^2.18.0"
+  }
+}
